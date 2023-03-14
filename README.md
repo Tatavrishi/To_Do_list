@@ -5,7 +5,7 @@ Setup
 To get started with the project, follow these steps:
 
 Clone the repository to your local machine:
-git clone https://github.com/your-username/fastapi-mongodb-todo.git
+git clone https://github.com/tatavrishi/To_Do_list.git
 
 Navigate to the project directory:
 cd fastapi-mongodb-todo
